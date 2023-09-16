@@ -29,4 +29,4 @@ https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 
 - `Notebooks/`: [This directory contains Jupyter notebooks used for data analysis and modeling.](https://github.com/PyMad96/Space-X-Capstone/tree/main)
 - `Final Presentation File/`: [Include any output or results files.](https://github.com/PyMad96/Space-X-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20Presentation.pdf)
-- `README.md`: [The file you are currently reading.](https://github.com/PyMad96/Space-X-Capstone/edit/main/README.md)https://github.com/PyMad96/Space-X-Capstone/edit/main/README.md
+- `README.md`: [The file you are currently reading.](https://github.com/PyMad96/Space-X-Capstone/edit/main/README.md)

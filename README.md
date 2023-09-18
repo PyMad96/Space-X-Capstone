@@ -9,7 +9,7 @@ This repository contains my Data Science Capstone project completed as part of t
 ## Project Details
 
 - **Course**: Applied Data Science Capstone on Coursera
-- **Instructor**: Yan Luo & Joseph Santarcangelo
+- **Instructors**: Yan Luo & Joseph Santarcangelo
 - **Completion Date**: 9/16/2023
 
 ## Project Description
